@@ -1,0 +1,6 @@
+f = open("D:\Tudip.txt" ,mode ='r',encoding = 'cp1252')
+print(f.read())
+# print(f.readline())
+# f.seek(0)
+# print(f.read())
+# f.close()
